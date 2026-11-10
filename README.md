@@ -6,7 +6,7 @@
 - **I evaluate AI models:** grading model output for accuracy, reasoning and safety, and writing expert-level tasks that catch confident but wrong answers in code, chemistry, biology and clinical pharmacy.
 - **What sets me apart:** a pharmacy degree and a year as an intern on hospital wards, so I read a clinical answer the way a pharmacist checks a prescription.
 
-Open to remote work with UK, European and US teams.
+Open to remote work with Nigeria, UK, European and US teams.
 
 ## Start here
 
